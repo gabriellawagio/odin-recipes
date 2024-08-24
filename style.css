@@ -5,3 +5,9 @@ body{
 a{
     color: rgb(65, 62, 62);
 }
+.pg-title{
+    text-align: center;
+}
+.description{
+    text-align: center;
+}
